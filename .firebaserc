@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "proyecto-angular-lista": {
+      "hosting": {
+        "ProyectoAppLista": [
+          "proyecto-angular-lista"
+        ]
+      }
+    }
+  }
+}
